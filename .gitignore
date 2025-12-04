@@ -1,0 +1,5 @@
+sniffer
+*.o
+*.db
+*.db-shm
+*.db-wal
